@@ -1,6 +1,6 @@
 ### Hello guys👋
 
-Me nome é Eula Ludmila, tenho 19 anos e sou de São Paulo - Brasil. Atualmente trabalho como Desenvolvedora Front-End, uma área em que gosto muito de estudar e abraçar cada vez mais conhecimento nesse mundo. Faço alguns cursos de imersão para abranger meu conhecimento e coloco em prática em alguns projetos que vou criando.
+Me nome é Eula Ludmila, tenho 20 anos e sou de São Paulo - Brasil. Atualmente trabalho como Desenvolvedora Front-End, uma área em que gosto muito de estudar e abraçar cada vez mais conhecimento nesse mundo. Faço alguns cursos de imersão para abranger meu conhecimento e coloco em prática em alguns projetos que vou criando.
 
 Em minhas horas livres gosto de jogar vôlei, dançar sertanejo (💃), assisti séries (📺) e filmes (🎞️), ler livros (📚), escutar músicas (🎵) e sair com meus amigos.
 
